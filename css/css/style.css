@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+.wrapper{
+  width: 100%;
+  background-color: #cff1ff;
+}
+
+.inner{
+  margin: 0 auto;
+  width: 600px;
+}
+
+.page-titel{
+  padding-top: 60px;
+  font-size: 28px;
+  text-align: center;
+}
+
+.form-title{
+  font-size: 24px;
+  text-align: center;
+}
+
+.content-title{
+  font-size: 18px;
+  color: #000000;
+}
+
+.form-wrap{
+  padding: 50px;
+  background-color:#ecfaff ;
+  margin-top: 60px;
+}
+
+
+.personal-information{
+  margin-top: 50px;
+}
+
+.label-section{
+  margin-top: 25px;
+}
+
+.label-text{
+  font-size: 14px;
+  color: #464646;
+}
+
+.required{
+  color: #e40000;
+}
+
+.input-area{
+  width: 100px;
+  height: 35px;
+}
